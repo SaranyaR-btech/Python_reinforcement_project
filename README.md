@@ -20,4 +20,7 @@ for yes).
 15. Street: The street address of the property.
 16. City: The city where the property is located.
 17. Statezip: The state and zip code of the property.
-18. Country: The country where the property is located.             
+18. Country: The country where the property is located.
+            
+<img width="1536" height="1024" alt="121bc722-b85b-4e0d-92c3-f4eaaa4bdbe4" src="https://github.com/user-attachments/assets/a54ae5f9-67af-4c3c-a670-2296e8556734" />
+
